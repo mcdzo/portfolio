@@ -13,8 +13,11 @@ const Header = () => {
           <li className="mx-4">
             <a href="./">Projects</a>
           </li>
+          <li className="mx-4">
+            <a href="./">Stack</a>
+          </li>
           <li className="mx-4 text-2xl hover:cursor-pointer p-1 rounded-md hover:bg-black hover:text-white"><a href="https://github.com/mcdzo"><FaGithub/></a> </li>
-          <li className="mx-4 text-2xl p-1 rounded-md hover:cursor-pointer hover:bg-sky-700 hover:text-white"><a href="https://github.com/mcdzo"><TiSocialLinkedin/></a> </li>
+          <li className="mx-4 text-2xl p-1 rounded-md hover:cursor-pointer hover:bg-sky-700 hover:text-white"><a href="https://www.linkedin.com/in/maximiliano-cardozo-544681231"><TiSocialLinkedin/></a> </li>
         </ul>
       </section>
     </header>
